@@ -1,7 +1,7 @@
 name: Lady Rebel
 favicon: null
-layout_spectrum: 0.38045987393707037
-typography_spectrum: 0.5847751738037914
+layout_spectrum: 0.76736
+typography_spectrum: 0.74068
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.37385722482576966
-  lightness: 0.7771810132544488
-  saturation: 0.5843873717822134
-  rhythmicContrast: 0.6051169983111322
+  brandStrength: 0.75
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
