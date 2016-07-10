@@ -1,28 +1,18 @@
-name: Lady Rebel
-favicon: null
-layout_spectrum: 0.76736
-typography_spectrum: 0.91119
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#f2f1ef'
-    - '#bbc6c8'
-    - '#2f2f2f'
-    - '#86939b'
-    - '#000000'
+    - '#4C4C4C'
+    - '#727272'
+    - '#C3B8B2'
+    - '#040000'
+    - '#FDFCF8'
   brandStrength: 0.8125
   lightness: 1
-  saturation: 0.375
   rhythmicContrast: 0.75
+  saturation: 0.375
+cta: {}
+layout_spectrum: 0.798519
+name: Lady Rebel
+opengraph: {}
 purpose: []
+typography_spectrum: 0.91119
